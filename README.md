@@ -1,3 +1,2 @@
-# angrepository
+Questo sta nel repository locale
 
-Questo sta nel repository globale
